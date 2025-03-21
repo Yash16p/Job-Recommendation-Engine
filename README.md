@@ -1,6 +1,8 @@
 Job Role Recommendation Engine
 Author: Yash Pandey
 Date: [21/03/2025]
+
+
 📌 Problem Statement
 The goal of this project is to recommend the top 3 closest job roles based on skill similarity. Given an input job role, we calculate similarity using TF-IDF and Cosine Similarity to match roles effectively.
 
@@ -17,6 +19,7 @@ Higher cosine similarity → More skill overlap → More relevant job recommenda
 Ranking & Recommendation
 Found the top 3 most similar job roles for a given input.
 Displayed recommendations with similarity scores
+
 
 📌 Results & Output
 Example Input: "Data Scientist"
